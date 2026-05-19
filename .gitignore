@@ -1,0 +1,4 @@
+out/
+libraryDB/
+derby.log
+*.class
